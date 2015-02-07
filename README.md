@@ -1,4 +1,4 @@
-HTML CSS Exercise 2
+Flappy App
 ===================
 
 1. Clone this repository into your projects directory
